@@ -1,10 +1,16 @@
 ---
-title: 'Welcome'
+title: 'Bienvenue'
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+Au coeur du hameau de montagne de Glaise, dans le Géopark des Bauges l'ancienne école du hameau a fait peau neuve pour vous accueillir.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate. 
+Avec une vue magnifique sur la Sambuy, la chaîne de la Belle Etoile et le Charvin le lieu ne saurait que séduire les amoureux de la montagne.
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Dans le Parc Naturel Régional du massif des Bauges les environs du gîte abritent une riche faune et flore alpine qui se laisse découvrir facilement pour qui sait écouter et regarder.
+
+À Faverges, ville toute proche, vous trouverez tous les services pour vous aider à passer des vacances faciles et agréables.
+
+Que ce soit pour ceux qui souhaitent des vacances tranquilles, familiales ou sportives, il y a une multitudes de possibilité de sorties pour toutes les envies et pour tous les niveaux
+
+Choisisez le logement parfait pour vos vacances, à dix minutes de l’Abbaye de Tamié, à 15 minutes du Lac d’Annecy, 30 minutes d'albertville et seulement 2 heures de Lyon.
