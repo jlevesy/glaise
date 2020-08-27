@@ -4,4 +4,4 @@ weight: 2
 header_menu: true
 ---
 
-Nuitée simple : 22,50 €
+<strong>Nuitée simple</strong>: 22,50 €

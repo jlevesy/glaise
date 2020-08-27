@@ -13,3 +13,8 @@ title = "Bienvenue au gite de Glaise"
   title = "Bienvenue au gite de Glaise"
   [params.meta]
     keywords = "gite, glaise, alpes, Annecy"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
