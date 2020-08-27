@@ -8,7 +8,7 @@ title = "Bienvenue au gite de Glaise"
 [params]
   copyright = "© Glaise 2020"
   description = "Site web du Gite de Glaise"
-  favicon = "images/favicon.png"
+  favicon = "favicon.ico"
   images = ["images/cover-image.jpg"]
   title = "Bienvenue au gite de Glaise"
   [params.meta]
