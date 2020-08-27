@@ -12,7 +12,7 @@ title = "Bienvenue au gite de Glaise"
   images = ["images/cover-image.jpg"]
   title = "Bienvenue au gite de Glaise"
   [params.meta]
-    keywords = "gite, glaise, alpes, Annecy"
+    keywords = "gite, Glaise, Alpes, Annecy, Faverges"
 
 [markup]
   [markup.goldmark]
