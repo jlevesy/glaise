@@ -9,3 +9,5 @@ Gîte de l'École De Glaise<br>
 
 <strong>Téléphone</strong>: 09.52.32.93.42<br>
 <strong>E-mail</strong>:  [gite.glaise@gmail.com](mailto:gite.glaise@gmail.com)
+
+![Mountaiiins](images/mountains-1.jpg)
