@@ -1,5 +1,4 @@
-baseURL = "https://jlevesy.github.io/glaise"
-
+baseURL = "https://gite-glaise.fr"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "fr"
 theme = "hugo-scroll"
