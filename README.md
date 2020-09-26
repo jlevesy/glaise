@@ -1,6 +1,7 @@
 # Glaise
 
 To run locally, clone the repository, then:
+
 ```
 cd glaise
 make dev
