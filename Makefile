@@ -2,6 +2,7 @@
 .PHONY: dev
 dev:
 	@echo "===> Running dev environement"
+	@git submodule update --init --recursive
 	@docker run -ti \
 		--rm \
 		--user $(shell id -u):$(shell id -g) \
