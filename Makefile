@@ -1,6 +1,6 @@
 # Runs dev server.
 .PHONY: dev
-dev:
+dev: submodules
 	@echo "===> Running dev environement"
 	@docker run -ti \
 		--rm \
@@ -9,3 +9,8 @@ dev:
 		-v $(PWD):/src\
 		klakegg/hugo:0.74.3-alpine \
 		serve
+
+.PHONY: submodules
+submodules:
+	@echo "===> Fetching submodules"
+	@git submodule update --init --recursive
