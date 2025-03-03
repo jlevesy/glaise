@@ -6,7 +6,7 @@ header_menu: true
 
 #### Tarifs
 
-<strong>Nuitée simple</strong>: 25 €
+<strong>Nuitée simple</strong>: 26,5 €
 
 #### Infos pratiques
 
